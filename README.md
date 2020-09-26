@@ -3,6 +3,6 @@
 #### 1.html
 #### 2.css
 
-visit : https://anwarkamel.github.io/AwsomeLoginForm/
+visit : <a href='https://anwarkamel.github.io/AwsomeLoginForm/' target="_blank" > Demo</a>
 
 ![Sign Up](assets/img2.jpg)
